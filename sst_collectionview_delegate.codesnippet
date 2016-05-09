@@ -9,8 +9,8 @@
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>#pragma mark - UICollectionViewDataSource
-#pragma mark -
+	<string>#pragma mark -
+#pragma mark - UICollectionViewDataSource
 
 - (NSInteger)collectionView:(UICollectionView *)collectionView numberOfItemsInSection:(NSInteger)section {
     return &lt;#number#&gt;;

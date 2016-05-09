@@ -10,8 +10,8 @@
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>
-#pragma mark - UITableViewDataSource
 #pragma mark -
+#pragma mark - UITableViewDataSource
 
 - (NSInteger)numberOfSectionsInTableView:(UITableView *)tableView {
     return &lt;#number#&gt;;

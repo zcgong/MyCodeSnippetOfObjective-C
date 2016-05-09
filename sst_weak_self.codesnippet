@@ -9,7 +9,7 @@
 		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>__weak &lt;# class #&gt; *weakSelf = self;</string>
+	<string>__weak &lt;#Class#&gt; *weakSelf = self;</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>9A9E0F11-79DD-419C-A716-E7055DD40599</string>
 	<key>IDECodeSnippetLanguage</key>
