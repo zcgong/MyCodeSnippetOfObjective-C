@@ -3,19 +3,25 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>weakSelf</string>
+	<string>sim_phone</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>typeof(self) __weak ws = self;</string>
+	<string>#if TARGET_IPHONE_SIMULATOR
+                &lt;#Code#&gt;
+#elif TARGET_OS_IPHONE
+                &lt;#Code#&gt;
+#endif</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>D61C641D-179C-448B-8391-4494F2AFA7FB</string>
+	<string>49724AB3-8A8E-4507-8ACD-915BFFDD1458</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>sim_phone</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>weakSelf</string>
+	<string>simulator  or iPhone</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

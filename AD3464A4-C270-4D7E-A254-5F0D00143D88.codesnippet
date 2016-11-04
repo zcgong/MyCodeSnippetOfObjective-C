@@ -3,21 +3,19 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>weak_self</string>
+	<string>@rc</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>CodeBlock</string>
+		<string>ClassInterfaceMethods</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>__weak &lt;#Class#&gt; *weakSelf = self;</string>
+	<string>@property (nonatomic, copy, readonly) &lt;#Class#&gt; &lt;#name#&gt;;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>9A9E0F11-79DD-419C-A716-E7055DD40599</string>
+	<string>AD3464A4-C270-4D7E-A254-5F0D00143D88</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
-	<key>IDECodeSnippetSummary</key>
-	<string>Create a weak reference for self</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Weak Self</string>
+	<string>property_copy_readonly</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

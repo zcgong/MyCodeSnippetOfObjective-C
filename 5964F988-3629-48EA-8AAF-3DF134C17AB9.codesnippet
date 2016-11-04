@@ -3,19 +3,19 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>ann</string>
+	<string>ann_example</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>//!&lt; &lt;#brief#&gt;</string>
+	<string>//!&lt; &lt;#brief#&gt;  example: &lt;#example description#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>5964F988-3629-48EA-8AAF-3DF134C17AB9</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>属性注释</string>
+	<string>属性注释 含举例</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>ann</string>
 	<key>IDECodeSnippetUserSnippet</key>
